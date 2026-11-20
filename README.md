@@ -1,6 +1,6 @@
-# Rohit
+# Rohit Singh Raghuvanshi
 
-Software developer focused on full-stack web applications, real-time systems and applied AI. I build products end to end: data model, backend services, and a usable front end.
+I am a Software Developer focused on full-stack web applications, real-time systems and applied AI. I build products end to end: data model, backend services, and a usable front end.
 
 **Core stack:** TypeScript · Python · React / Next.js · Node.js · PostgreSQL · Redis · Docker · FastAPI
 
